@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fULRwKMW)
+
+ПРОЧЕТИ ПРЕДИ ДА ОТВОРИШ САЙТА!!!
+
+1. Инсталирате ZIP файлът.
+
+2. Отваряте MAMP, кликате горе в ляво на MAMP, натискате "Preferences", отивате на "server" и избирате за "root document" папката htdocs.
+
+3. Отваряте кода в Visual Studio Code и стартирате сървърите на MAMP
+
+4. Отваряте в браузъра localhost и /localhost/phpmyadmin/
+
+5. След като влезете в localhost на първата опция ще ви изпише да съкратите желания от вас линк с натискането на бутона "SHORTEN" и след това ще ви излезе неговото "ID", новият съкратен линк, оригиналния линк и ще бъде запазен в база данни - mysql.
+
+6. На опцията за триене на линка просто трябва да въведето неговото "ID", да натиснете "DELETE" и той ще бъде изтрит както в сайта така и от база данни.
+
+БЛАГОДАРЯ ЗА ВНИМАНИЕТО!
